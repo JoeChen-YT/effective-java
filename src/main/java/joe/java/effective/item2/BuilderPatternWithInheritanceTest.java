@@ -1,7 +1,6 @@
 package joe.java.effective.item2;
 
 import joe.java.effective.item2.type.NyPizza;
-import joe.java.effective.item2.type.Pizza;
 
 import static joe.java.effective.item2.type.NyPizza.Size.SMALL;
 import static joe.java.effective.item2.type.Pizza.Topping.HAM;
